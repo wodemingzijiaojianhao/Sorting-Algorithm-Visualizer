@@ -82,6 +82,7 @@ public class SortingMethods {
     public static void hello () {
         System.out.println("Hello my friend!");
         System.out.println("Hello my friend!");
+        System.out.println("Hello my friend!");
     }
 
 }
