@@ -79,5 +79,8 @@ public class SortingMethods {
             h = h/3;
         }
     }
+    public static void hello () {
+        System.out.println("Hello my friend!");
+    }
 
 }
