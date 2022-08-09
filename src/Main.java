@@ -10,7 +10,8 @@ public class Main {
         Thread.sleep(500);
         SortingMethods.insertionSort(Print.generateRandom(40),40,16);*/
         //SortingMethods.shellSort(Print.generateRandom(50),50,16);
-        BogoSort sample = new BogoSort();
-        sample.bogoSort(Print.generateRandom(9));
+        //BogoSort sample = new BogoSort();
+        //sample.bogoSort(Print.generateRandom(9));
+        MergeSort.sortArray(Print.generateRandom(50));
     }
 }
